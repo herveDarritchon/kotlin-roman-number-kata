@@ -1,0 +1,8 @@
+
+junitPlatform {
+    filters {
+        tags {
+            //include 'fast'
+        }
+    }
+}
