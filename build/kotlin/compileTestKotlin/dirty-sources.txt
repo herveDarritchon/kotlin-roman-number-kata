@@ -1,0 +1,2 @@
+/Users/throdo/Programmation/Workspaces/Kata/Kotlin/RomanNumber/src/test/kotlin/SampleTest.kt
+/Users/throdo/Programmation/Workspaces/Kata/Kotlin/RomanNumber/src/test/kotlin/SampleSpec.kt

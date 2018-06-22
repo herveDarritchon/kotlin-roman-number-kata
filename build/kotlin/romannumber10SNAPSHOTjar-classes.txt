@@ -1,0 +1,1 @@
+/Users/throdo/Programmation/Workspaces/Kata/Kotlin/RomanNumber/build/classes/kotlin/main/RomanNumber.class
