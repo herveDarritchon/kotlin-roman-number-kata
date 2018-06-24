@@ -31,7 +31,6 @@ dependencies {
 
     testCompile "org.junit.jupiter:junit-jupiter-api:$junitVersion"
     testCompile "org.junit.jupiter:junit-jupiter-params:$junitVersion"
-
     testCompile "org.jetbrains.spek:spek-api:$spekVersion"
     testRuntime "org.jetbrains.spek:spek-junit-platform-engine:$spekVersion"
 
